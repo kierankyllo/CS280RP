@@ -11,8 +11,11 @@ Computer vision is a rapidly growing and increasingly mainstream usage of modern
 
 •	HA : Statistically significant differences in error rates exist between race categories with respect to gender and age at  p < 0.001. (Evidence of difference exists).
 
+### Paper:
 
-**References:**
+https://github.com/kierankyllo/CS280RP/blob/main/Kieran%20Kyllo%20Brooks%20-%20Research%20Project.pdf
+
+### References:
 
 Buolamwini, J., & Gebru, T. (2018). Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification. Proceedings of Machine Learning Research, 81, 77–91. https://doi.org/http://proceedings.mlr.press/v81/buolamwini18a.html 
 
