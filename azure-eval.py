@@ -32,7 +32,7 @@ def getFaceDetails(path_string, face_client):
 # Define sample size
 sample_size = 67228
 
-# This key will serve all examples in this document.
+# This is the API key provided to you from Azure
 KEY = "ENDPOINT KEY RECIEVED FROM Azure"
 
 # This is the endpoint provided to you from Azure
